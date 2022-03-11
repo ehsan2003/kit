@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.296
+
+### Patch Changes
+
+- Allow adapter.adapt to be synchronous ([#4299](https://github.com/sveltejs/kit/pull/4299))
+
 ## 1.0.0-next.295
 
 ### Patch Changes
